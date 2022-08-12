@@ -27,6 +27,14 @@ header ul li {
   cursor: pointer;
 }
 
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid black;
+  padding: 10px;
+}
+
 header ul li:nth-child(2),
 header ul li:nth-child(1) {
   border-right: 3px solid;
