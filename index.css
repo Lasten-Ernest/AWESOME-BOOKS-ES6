@@ -21,14 +21,6 @@ header ul {
   display: flex;
 }
 
-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  border: 2px solid black;
-  padding: 10px;
-}
-
 header ul li {
   font-size: 20px;
   padding: 0 10px;
