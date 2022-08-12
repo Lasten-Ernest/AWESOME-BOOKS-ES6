@@ -16,16 +16,17 @@ ul {
 body {
   padding: 10px;
 }
+
+header ul {
+  display: flex;
+}
+
 header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px;
   border: 2px solid black;
-}
-
-header ul {
-  display: flex;
+  padding: 10px;
 }
 
 header ul li {
